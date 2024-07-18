@@ -15,5 +15,5 @@ This program takes a google sheet that has the follwing cities and loweest price
 
 4- then it populates emails from another google sheet that has all the emails of the "signed in" users.
 
-5- it sends the results to those users as an SMS, WHatsApp and email .
+5- if results are found it sends a low price alert to those users as an SMS, WHatsApp and email .
 
