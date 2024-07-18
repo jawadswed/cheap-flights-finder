@@ -2,9 +2,10 @@
 
 This program takes a google sheet that has the follwing cities and loweest price columns and then does the follwing 
 
-<img width="224" alt="Screenshot 2024-07-18 105700" src="https://github.com/user-attachments/assets/34dea483-826f-480f-ab55-cc4e79ecabe7">
 
 1- read the data from the google sheet using sheety api
+
+<img width="224" alt="Screenshot 2024-07-18 105700" src="https://github.com/user-attachments/assets/34dea483-826f-480f-ab55-cc4e79ecabe7">
 
 
 2- populate the IATA code for each city using amadeus api
